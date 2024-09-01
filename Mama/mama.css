@@ -1,0 +1,27 @@
+h1 {
+  font-family: "Bebas Neue", "Times New Roman";
+  text-align: center;
+  font-size: 70px;
+  color: #27108b;
+}
+p {
+  font-family: "Baskervville SC", "Times New Roman";
+  text-align: left;
+  font-size: 30px;
+  color: #ffffff;
+}
+a {
+  color: #ff0000;
+  text-decoration: none;
+  font-weight: bold;
+}
+a:hover {
+  text-decoration: underline;
+}
+body {
+  background-image: url(pexels-tayebmezahdia-318451.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}

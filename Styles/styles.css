@@ -1,0 +1,14 @@
+body {
+  margin: 30px;
+}
+img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+
+#todays-challenge {
+  color: #1db39f;
+  font-size: 28px;
+  font-weight: bold;
+}

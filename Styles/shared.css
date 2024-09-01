@@ -1,12 +1,10 @@
 body {
   text-align: center;
-  background-color: black;
-  /* background-image: url(../Images/background.jpg);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-attachment: fixed;
-    background-size: cover;
-  } */
+  background-image: url(../Images/background.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
 }
 h1 {
   font-family: "Bebas Neue", "Times New Roman";
